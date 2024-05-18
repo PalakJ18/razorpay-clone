@@ -18,5 +18,6 @@ module.exports = {
       gray2: "#525a76",
     },},
   },
+   variants: {},
   plugins: [],
 }
